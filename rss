@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss version="2.0">
+    <channel>
+        <title>Jitendra Vadlamani | Software Engineer</title>
+        <link>https://jitendra-vadlamani.github.io</link>
+        <description>Articles and thoughts on software engineering, architecture, and development</description>
+        <item>
+          <title>MongoDB Connection Pooling in Node.js: My First Dev Task</title>
+          <link>https://jitendra-vadlamani.github.io/blog/database_connection_pooling</link>
+          <description>How I improved app performance by implementing MongoDB connection pooling in Node.js and the lessons I learned along the way.</description>
+          <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+        </item>
+<item>
+          <title>Builder: Constructing Complex Objects Step-by-Step</title>
+          <link>https://jitendra-vadlamani.github.io/blog/builder</link>
+          <description>Explore how the Builder pattern simplifies the creation of complex objects with many configurable components and parameters.</description>
+          <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+<item>
+          <title>Factory Method: Creating Objects Without Specifying Their Class</title>
+          <link>https://jitendra-vadlamani.github.io/blog/factory_method</link>
+          <description>Learn how the Factory Method pattern allows for flexible object creation by delegating instantiation to subclasses.</description>
+          <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+<item>
+          <title>Singleton: The Art of Single Instance Control</title>
+          <link>https://jitendra-vadlamani.github.io/blog/singleton</link>
+          <description>Understand how to implement and use the Singleton pattern to ensure a class has only one instance while providing global access.</description>
+          <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+<item>
+          <title>Introduction to Design Patterns: A Developer's Guide</title>
+          <link>https://jitendra-vadlamani.github.io/blog/introduction</link>
+          <description>Learn about software design patterns, their categories, and why they matter in modern development.</description>
+          <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+  </rss>

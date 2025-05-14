@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://jitendra-vadlamani.github.io</loc>
+<lastmod>2025-05-14</lastmod>
+</url>
+<url>
+<loc>https://jitendra-vadlamani.github.io/blog</loc>
+<lastmod>2025-05-14</lastmod>
+</url>
+<url>
+<loc>https://jitendra-vadlamani.github.io/blog/builder</loc>
+<lastmod>2025-04-30</lastmod>
+</url>
+<url>
+<loc>https://jitendra-vadlamani.github.io/blog/database_connection_pooling</loc>
+<lastmod>2025-05-14</lastmod>
+</url>
+<url>
+<loc>https://jitendra-vadlamani.github.io/blog/factory_method</loc>
+<lastmod>2025-04-30</lastmod>
+</url>
+<url>
+<loc>https://jitendra-vadlamani.github.io/blog/introduction</loc>
+<lastmod>2025-04-25</lastmod>
+</url>
+<url>
+<loc>https://jitendra-vadlamani.github.io/blog/singleton</loc>
+<lastmod>2025-04-30</lastmod>
+</url>
+</urlset>

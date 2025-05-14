@@ -1,0 +1,3 @@
+User-Agent: *
+
+Sitemap: https://jitendra-vadlamani.github.io/sitemap.xml
