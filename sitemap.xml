@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://jitendra-vadlamani.github.io</loc>
-<lastmod>2025-05-17</lastmod>
+<lastmod>2025-05-20</lastmod>
 </url>
 <url>
 <loc>https://jitendra-vadlamani.github.io/blog</loc>
-<lastmod>2025-05-17</lastmod>
+<lastmod>2025-05-20</lastmod>
 </url>
 <url>
 <loc>https://jitendra-vadlamani.github.io/blog/builder</loc>
@@ -15,6 +15,10 @@
 <url>
 <loc>https://jitendra-vadlamani.github.io/blog/database_connection_pooling</loc>
 <lastmod>2025-05-14</lastmod>
+</url>
+<url>
+<loc>https://jitendra-vadlamani.github.io/blog/distributed_systems</loc>
+<lastmod>2025-05-20</lastmod>
 </url>
 <url>
 <loc>https://jitendra-vadlamani.github.io/blog/factory_method</loc>
